@@ -6,7 +6,6 @@ compile
 config.guess
 config.sub
 configure
-config.h
 stamp-h1
 depcomp
 install-sh
