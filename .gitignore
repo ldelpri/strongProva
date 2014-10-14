@@ -29,7 +29,6 @@ apidoc/
 *~
 *.orig
 *.patch
-*.diff
 *.tar.bz2
 *.tar.gz
 .DS_Store
