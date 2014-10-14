@@ -24,7 +24,6 @@ libtool
 *.exe
 y.tab.[ch]
 lex.yy.c
-*keywords.c
 Doxyfile
 apidoc/
 *~
@@ -40,6 +39,6 @@ coverage/
 *.gcov
 .cproject
 .project
+.settings
 .metadata/
-.settings/
 test-driver
