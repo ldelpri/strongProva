@@ -1,0 +1,8 @@
+org.strongswan.android.data
+org.strongswan.android.logic
+org.strongswan.android.logic.imc
+org.strongswan.android.logic.imc.attributes
+org.strongswan.android.logic.imc.collectors
+org.strongswan.android.ui
+org.strongswan.android.ui.adapter
+org.strongswan.android.utils

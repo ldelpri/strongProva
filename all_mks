@@ -1,0 +1,17 @@
+./Android.mk
+./src/charon/Android.mk
+./src/frontends/android/jni/Android.mk
+./src/frontends/android/jni/libandroidbridge/Android.mk
+./src/frontends/android/jni/openssl/Android.mk
+./src/ipsec/Android.mk
+./src/libcharon/Android.mk
+./src/libhydra/Android.mk
+./src/libimcv/Android.mk
+./src/libipsec/Android.mk
+./src/libpts/Android.mk
+./src/libstrongswan/Android.mk
+./src/libtnccs/Android.mk
+./src/libtncif/Android.mk
+./src/scepclient/Android.mk
+./src/starter/Android.mk
+./src/stroke/Android.mk
