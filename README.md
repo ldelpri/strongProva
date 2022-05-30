@@ -1,4 +1,5 @@
 # strongSwan Configuration #
+TEST
 Before start, make sure you've installed and correctly configured the following packages:
 
     bison
